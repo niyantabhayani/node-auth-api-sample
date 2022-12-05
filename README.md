@@ -16,12 +16,11 @@ Set url and token in .env file
 
 Open postman and verify the auth-api is working by accessing:
 
+```
 http://localhost:4001/register
-
 http://localhost:4001/login
-
 http://localhost:4001/welcome
-
+```
 
 Postman collection 
 
